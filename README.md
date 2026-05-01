@@ -1,4 +1,18 @@
 # 👋 Hi, I'm Misuzu!
+## Events & Learning
+
+### 2026-04-30 — PyData / Python Event (Sion)
+
+- Attended technical talks about Artificial Intelligence and JAX
+- Learned about high-performance numerical computing with JAX
+- Networked with local developers
+
+Key takeaway:
+- Python ecosystem is evolving quickly around AI and performance tools
+
+Photo:
+![Event photo](pydata-sion.jpg)
+
 
 ## About Me
 - 🌍 Based in Switzerland
