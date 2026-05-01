@@ -36,8 +36,25 @@ Photo:
 
 ## Featured Projects
 
-📍 Switzerland Kids-Friendly Places — Family-friendly location app  
-💬 Chat App — Real-time communication experiment  
+📍 Switzerland Kids-Friendly Places  
+A personal app I use daily to quickly share kid-friendly locations with other parents.  
+Designed to make it easy to recommend parks, cafés, and activities in Switzerland.  
+Focus: usability, real-world data, and practical daily use.
+
+🤖 AI Bots (Scenario-based Personalities)  
+Experimenting with AI bots that simulate different personalities and situations.  
+Used to explore communication patterns, decision-making, and conversational design.  
+Focus: prompt design, personality modeling, and practical AI applications.
+
+🗣️ 5minLanguage App  
+A simple language practice tool focused on short, daily conversations.  
+Built to support consistent learning in small time slots.  
+Currently evolving through many iterations and design experiments.
+
+🛠️ Personal Tools  
+Small utilities I build to solve real-life problems.  
+Examples include automation scripts, data handling tools, and daily workflow helpers.  
+Focus: practicality, simplicity, and continuous improvement.
 🗂️ Personal Tools — Small utilities for daily life and automation  
 
 ---
