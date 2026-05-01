@@ -34,12 +34,6 @@ Photo:
 
 ---
 
-## Tech Stack
-
-Python | Flask | Streamlit | SQLite | Git | JavaScript (basic)
-
----
-
 ## Featured Projects
 
 📍 Switzerland Kids-Friendly Places — Family-friendly location app  
@@ -48,29 +42,18 @@ Python | Flask | Streamlit | SQLite | Git | JavaScript (basic)
 
 ---
 
-## Beyond Code
-
-🌱 Interested in languages (Japanese, English, Spanish, French)  
-👶 Balancing coding with raising a young child  
-🎶 Enjoy music and creative projects  
-
-
 
 ## Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## Featured Projects
-- [📊 Expense Tracker App](https://github.com/username/expense-tracker)  
-- [📝 Blog Platform](https://github.com/username/blog-platform)  
-- [🌦️ Weather Dashboard](https://github.com/username/weather-dashboard)  
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Beyond Code
-- 🎶 Love music and creativity
 - 🌱 Interested in languages (Japanese, English, Spanish, French)
 - 👶 Balancing coding with raising my 2-year-old son
