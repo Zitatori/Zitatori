@@ -11,7 +11,7 @@ Key takeaway:
 - Python ecosystem is evolving quickly around AI and performance tools
 
 Photo:
-![Event photo](pydata-sion.jpg)
+![Event photo](pydata-sion.jpeg)
 
 
 ## About Me
