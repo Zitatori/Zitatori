@@ -13,18 +13,48 @@ Key takeaway:
 Photo:
 ![Event photo](pydata-sion.jpeg)
 
-
 ## About Me
-- 🌍 Based in Switzerland
-- 💻 Passionate about Python and building real-world projects
-- 🎯 Goal: Become a professional developer while balancing family life
-- ✨ Sharing my coding journey on GitHub & X
+
+🌍 Based in Valais, Switzerland  
+🇯🇵 Japanese developer learning and building in Europe  
+💻 Passionate about Python and building real-world projects  
+🎯 Goal: Become a professional developer through continuous learning and real-world projects  
+
+📢 Sharing my coding journey on GitHub & X  
+🔗 X (Twitter): https://x.com/code_with_zita
+
+---
 
 ## Currently Learning
-- Python (Advanced topics)
-- Django / Flask
-- JavaScript & React
-- Data visualization & APIs
+
+- Python (real-world applications & advanced topics)  
+- AI & modern Python tools (e.g., JAX)  
+- Web development (Flask / Streamlit / JavaScript basics)  
+- Data handling, APIs, and automation  
+
+---
+
+## Tech Stack
+
+Python | Flask | Streamlit | SQLite | Git | JavaScript (basic)
+
+---
+
+## Featured Projects
+
+📍 Switzerland Kids-Friendly Places — Family-friendly location app  
+💬 Chat App — Real-time communication experiment  
+🗂️ Personal Tools — Small utilities for daily life and automation  
+
+---
+
+## Beyond Code
+
+🌱 Interested in languages (Japanese, English, Spanish, French)  
+👶 Balancing coding with raising a young child  
+🎶 Enjoy music and creative projects  
+
+
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
