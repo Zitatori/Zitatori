@@ -54,6 +54,33 @@ Photo:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+## Languages
+
+![Japanese](https://img.shields.io/badge/Japanese-Native-red?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-B1-orange?style=for-the-badge)
+![French](https://img.shields.io/badge/French-A1-lightgrey?style=for-the-badge)
+
+## Focus Areas
+
+![AI](https://img.shields.io/badge/AI-Interest-412991?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-Learning-005571?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Building-2E8B57?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-Learning-FF6F00?style=for-the-badge)
+
+## Currently Building
+
+![Real-world Projects](https://img.shields.io/badge/Real--world_Projects-In_Progress-brightgreen?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-Growing-blueviolet?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Active-181717?style=for-the-badge&logo=github)
+![X](https://img.shields.io/badge/X-Sharing_Journey-000000?style=for-the-badge&logo=x)
+
+## Location & Background
+
+![Valais](https://img.shields.io/badge/Based_in-Valais,_Switzerland-red?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-Developer-BC002D?style=for-the-badge)
+![Europe](https://img.shields.io/badge/Building_in-Europe-003399?style=for-the-badge)
 ## Beyond Code
 - 🌱 Interested in languages (Japanese, English, Spanish, French)
 - 👶 Balancing coding with raising my 2-year-old son
