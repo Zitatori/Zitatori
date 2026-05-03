@@ -11,7 +11,10 @@ Key takeaway:
 - Python ecosystem is evolving quickly around AI and performance tools
 
 Photo:
-![Event photo](pydata-sion.jpeg)
+<p align="center">
+  <img src="pydata-sion.jpeg" width="250"><br>
+  <em>PyData Sion event</em>
+</p>
 
 ## About Me
 
