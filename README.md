@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Misuzu!
+# Misuzu Ditmeyer
+### Python Developer based in Switzerland, Valais 🇨🇭
+
+
 ## Events & Learning
 
 ### 2026-04-30 — PyData / Python Event (Sion)
