@@ -64,11 +64,11 @@ Focus: prompt design, personality modeling, and practical AI applications.
 
 ## 🌍 Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Japanese-Native-red?style=for-the-badge&logo=japan&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-C1-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spanish-B2-orange?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/French-B1-5C7CFA?style=for-the-badge&logo=googletranslate&logoColor=white" />
-</p>
+| Language | Level |
+|---|---|
+| 🇯🇵 Japanese | Native |
+| 🇬🇧 English | C1 |
+| 🇪🇸 Spanish | B2 |
+| 🇫🇷 French | B1 |
 
 
