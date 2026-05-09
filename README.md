@@ -64,11 +64,10 @@ Focus: prompt design, personality modeling, and practical AI applications.
 
 ## 🌍 Languages
 
-| Language | Level |
-|---|---|
-| 🇯🇵 Japanese | Native |
-| 🇬🇧 English | C1 |
-| 🇪🇸 Spanish | B2 |
-| 🇫🇷 French | B1 |
-
+<p>
+  🇯🇵 Japanese (Native)<br>
+  🇬🇧 English (C1)<br>
+  🇪🇸 Spanish (B2)<br>
+  🇫🇷 French (B1)
+</p>
 
